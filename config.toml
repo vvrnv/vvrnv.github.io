@@ -2,6 +2,7 @@ baseURL = "https://vvrnv.github.io"
 languageCode = "en-us"
 title = "vvrnv"
 theme = "hugo-coder"
+publishDir = "public"
 
 [params]
   author = "Valery Voronov"
