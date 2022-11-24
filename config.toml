@@ -14,6 +14,9 @@ theme = "hugo-coder"
   colorScheme = "auto"
   hidecolorschemetoggle = false
 
+  hideCredits = true
+  hideCopyright = true
+
 [[params.social]]
   name = "Github"
   icon = "fa fa-github fa-2x"
@@ -34,8 +37,3 @@ theme = "hugo-coder"
   icon = "fa fa-lastfm fa-2x"
   weight = 4
   url = "https://www.last.fm/user/valera_88"
-[[params.social]]
-  name = "Strava"
-  icon = "fa fa-strava fa-2x"
-  weight = 5
-  url = "https://www.strava.com/athletes/72534161"
