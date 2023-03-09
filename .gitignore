@@ -1,0 +1,4 @@
+*.lock
+resources/
+public/
+themes/
