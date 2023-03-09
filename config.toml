@@ -4,46 +4,48 @@ title = "Valery Voronov"
 theme = "hugo-coder"
 
 [params]
-  author = "Valery Voronov"
-  info   = "System Engineer | DevOps | SRE"
+author = "Valery Voronov"
+info   = "System Engineer | DevOps | SRE"
 
-  customCSS = ["css/brands.min.css", "css/fontawesome.min.css"]
+customCSS = ["css/brands.min.css", "css/fontawesome.min.css"]
 
-  avatarURL = "/images/avatar.jpg"
-  favicon_32 = "/images/favicon-32x32.png"
-  favicon_16 = "/images/favicon-16x16.png"
+avatarURL = "/images/avatar.jpg"
+favicon_32 = "/images/favicon-32x32.png"
+favicon_16 = "/images/favicon-16x16.png"
 
-  colorScheme = "auto"
-  hidecolorschemetoggle = false
-
-  hideCredits = true
-  hideCopyright = true
+colorScheme = "auto"
+hidecolorschemetoggle = false
 
 [[params.social]]
-  name = "Github"
-  icon = "fa fa-github fa-2x"
-  weight = 1
-  url = "https://github.com/vvrnv/"
+name = "Github"
+icon = "fa fa-github fa-2x"
+weight = 1
+url = "https://github.com/vvrnv/"
+
 [[params.social]]
-  name = "Linkedin"
-  icon = "fa fa-linkedin fa-2x"
-  weight = 2
-  url = "https://www.linkedin.com/in/valery-voronov"
+name = "Linkedin"
+icon = "fa fa-linkedin fa-2x"
+weight = 2
+url = "https://www.linkedin.com/in/valery-voronov"
+
 [[params.social]]
-  name = "Telegram"
-  icon = "fa fa-telegram fa-2x"
-  weight = 3
-  url = "https://t.me/vvoronov"
+name = "Telegram"
+icon = "fa fa-telegram fa-2x"
+weight = 3
+url = "https://t.me/vvoronov"
+
 [[params.social]]
-  name = "Lastfm"
-  icon = "fa fa-lastfm fa-2x"
-  weight = 4
-  url = "https://www.last.fm/user/valera_88"
+name = "Lastfm"
+icon = "fa fa-lastfm fa-2x"
+weight = 4
+url = "https://www.last.fm/user/valera_88"
+
 [[params.social]]
-  name = "Instagram"
-  icon = "fa fa-instagram fa-2x"
-  weight = 5
-  url = "https://www.instagram.com/vvoronov2"
+name = "Instagram"
+icon = "fa fa-instagram fa-2x"
+weight = 5
+url = "https://www.instagram.com/vvoronov2"
+
 #[[params.social]]
 #  name = "Strava"
 #  icon = "fa fa-strava fa-2x"
