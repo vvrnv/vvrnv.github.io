@@ -5,7 +5,7 @@ theme = "hugo-coder"
 
 [params]
 author = "Valery Voronov"
-info   = "System Engineer | DevOps | SRE"
+info = "System Engineer | DevOps | SRE"
 
 customCSS = ["css/brands.min.css", "css/fontawesome.min.css"]
 
@@ -46,8 +46,8 @@ icon = "fa fa-instagram fa-2x"
 weight = 5
 url = "https://www.instagram.com/vvoronov2"
 
-#[[params.social]]
-#  name = "Strava"
-#  icon = "fa fa-strava fa-2x"
-#  weight = 6
-#  url = "https://www.strava.com/athletes/72534161"
+[[params.social]]
+name = "Strava"
+icon = "fab fa-strava fa-2x"
+weight = 6
+url = "https://www.strava.com/athletes/72534161"
