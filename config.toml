@@ -7,6 +7,8 @@ theme = "hugo-coder"
   author = "Valery Voronov"
   info   = "System Engineer | DevOps | SRE"
 
+  customCSS = ["css/brands.min.css", "css/fontawesome.min.css"]
+
   avatarURL = "/images/avatar.jpg"
   favicon_32 = "/images/favicon-32x32.png"
   favicon_16 = "/images/favicon-16x16.png"
@@ -19,26 +21,31 @@ theme = "hugo-coder"
 
 [[params.social]]
   name = "Github"
-  icon = "fa fa-github fa-2x"
+  icon = "fab fa-github fa-2x"
   weight = 1
   url = "https://github.com/vvrnv/"
 [[params.social]]
   name = "Linkedin"
-  icon = "fa fa-linkedin fa-2x"
+  icon = "fab fa-linkedin fa-2x"
   weight = 2
   url = "https://www.linkedin.com/in/valery-voronov"
 [[params.social]]
   name = "Telegram"
-  icon = "fa fa-telegram fa-2x"
+  icon = "fab fa-telegram fa-2x"
   weight = 3
   url = "https://t.me/vvoronov"
 [[params.social]]
   name = "Lastfm"
-  icon = "fa fa-lastfm fa-2x"
+  icon = "fab fa-lastfm fa-2x"
   weight = 4
   url = "https://www.last.fm/user/valera_88"
 [[params.social]]
   name = "Instagram"
-  icon = "fa fa-instagram fa-2x"
+  icon = "fab fa-instagram fa-2x"
   weight = 5
+  url = "https://www.instagram.com/vvoronov2"
+[[params.social]]
+  name = "Strava"
+  icon = "fab fa-strava fa-2x"
+  weight = 6
   url = "https://www.strava.com/athletes/72534161"
