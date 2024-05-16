@@ -44,7 +44,7 @@ url = "https://www.last.fm/user/valera_88"
 name = "Instagram"
 icon = "fab fa-instagram fa-2x"
 weight = 5
-url = "https://www.instagram.com/vvoronov2"
+url = "https://www.instagram.com/v__voronov"
 
 [[params.social]]
 name = "Strava"
