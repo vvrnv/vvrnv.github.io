@@ -1,11 +1,13 @@
 baseURL = "https://vvrnv.github.io"
 languageCode = "en-us"
-title = "Valery Voronov"
+title = "valery voronov"
 theme = "hugo-coder"
 
 [params]
-author = "Valery Voronov"
-info = "System Engineer | DevOps | SRE"
+author = "valery voronov"
+info = "system engineer | devops | sre"
+description = "valery voronov's personal website"
+keywords = "blog,developer,personal"
 
 customCSS = ["css/brands.min.css", "css/fontawesome.min.css"]
 
