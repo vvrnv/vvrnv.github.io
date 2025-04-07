@@ -5,7 +5,7 @@ theme = "hugo-coder"
 
 [params]
 author = "valery voronov"
-info = "system engineer | devops | sre"
+info = "systems engineer | devops | sre"
 description = "valery voronov's personal website"
 keywords = "blog,developer,personal"
 
@@ -55,7 +55,13 @@ weight = 6
 url = "https://www.strava.com/athletes/72534161"
 
 [[params.social]]
+name = "Facebook"
+icon = "fab fa-facebook fa-2x"
+weight = 7
+url = "https://www.facebook.com/profile.php?id=100009615980603"
+
+[[params.social]]
 name = "Spotify"
 icon = "fab fa-spotify fa-2x"
-weight = 7
+weight = 8
 url = "https://open.spotify.com/user/31ro6qcm54sfnnqzmx5zugwt5phy"
